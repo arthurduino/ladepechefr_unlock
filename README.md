@@ -3,7 +3,7 @@ Bypass paywall for paid articles on the French news website "La Dépêche"
 
 `For educational purposes only ⚠️`
 
-##Usage
+#Usage
 Install packages
 `pip install bs4`
 `pip install requests`
